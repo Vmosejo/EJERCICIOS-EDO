@@ -34,3 +34,12 @@
 ![image](https://user-images.githubusercontent.com/93681159/170347929-2f002ab4-03b2-446a-b699-63fd8dbf6dab.png)
 ![image](https://user-images.githubusercontent.com/93681159/170347979-ebdda0eb-096e-450c-911c-4d1f930ac658.png)
 ![image](https://user-images.githubusercontent.com/93681159/170348021-6537d3b0-fb8c-4249-8524-d9c2dc741c22.png)
+## Ecuación de Riccati
+![image](https://user-images.githubusercontent.com/93681159/172712813-bb33b70d-47af-4c36-ae05-15b240507895.png)
+![image](https://user-images.githubusercontent.com/93681159/172712875-9fee75bd-e350-4a53-94c0-e7b9c802713b.png)
+![image](https://user-images.githubusercontent.com/93681159/172712914-f9fabdd6-8483-456f-b4b3-f0fcb788153c.png)
+## Trayectorias Ortogonales
+![image](https://user-images.githubusercontent.com/93681159/172713120-f9e6cd47-d808-4d43-9d49-f85e74b5c15c.png)
+![image](https://user-images.githubusercontent.com/93681159/172713168-7b880e11-bffa-4b19-b9dd-248329ce5ba3.png)
+## Trayectorias Isogonales
+![image](https://user-images.githubusercontent.com/93681159/172713211-a0593066-aebc-4415-801e-7a2cbc489bd2.png)
